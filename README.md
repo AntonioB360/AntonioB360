@@ -1,4 +1,9 @@
-- 👋 ola ei sou o  @AntonioB360
-- 👀 estou interessado em aprender e desenvolver minhas abilidades em desenvolvimento mobile 
-- 🌱 Actualmente estou trabalhando com java, MySQL e php, ainda estudo estas tecnologias citadas
-- 💞️ Gosto de parcerias e tenho sempre interesse em participar de projectos comunitários e não so.
+
+💻 Tecnologias que uso frequentemente:
+ Java,Mysql,Html,JavaScript,Css,Git.
+
+🚀 Objetivos no GitHub:
+Contribuir para projetos de código aberto Aprender novas tecnologias e melhores práticas
+ Ajudar e colaborar com a comunidade de desenvolvedores
+
+📚 Aprendizado contínuo: Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. Se você tem algum projeto interessante ou uma ideia de colaboração, sinta-se à vontade para me chamar!
