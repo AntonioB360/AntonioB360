@@ -1,6 +1,6 @@
 
 💻 Tecnologias que uso frequentemente:
- Java,Mysql,Html,JavaScript,Css,Git.
+ Java MySQL,Git, Spring boot,Android.
 
 🚀 Objetivos no GitHub:
 Contribuir para projetos de código aberto Aprender novas tecnologias e melhores práticas
